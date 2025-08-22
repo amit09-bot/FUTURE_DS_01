@@ -1,5 +1,5 @@
 # FUTURE_DS_01
-E-Commerce Sales Dashboard in Power BI
+
 TASK 1
 Just completed my E-commerce Sales Analytics Dashboard in Power BI!
 Transformed raw sales data into actionable business insights by analyzing 500+ orders across multiple product categories.
